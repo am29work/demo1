@@ -1,0 +1,28 @@
+Day 1: Introduction to git and github
+---------------------------------------------------
+
+-VCS:
+
+-Problems before Version Controlling System!?
+
+----------------------------------------------------
+git and github
+
+
+GIT:
+
+who developed git? Linus Torvalds
+------------------------------------------------------
+
+
+
+untracked -> tracked -> finalised
+
+untracked -> staging area -> commit area
+
+--------------------------------------------------------
+Tasks for day1: Create a github account: use the link -> https://github.com/
+Install gitbash: https://www.git-scm.com/download/win
+
+
+
